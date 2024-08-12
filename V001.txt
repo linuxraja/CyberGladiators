@@ -1,5 +1,6 @@
 
-Here are links to official documentation for enabling Multi-Factor Authentication (MFA) on popular platforms, these links direct you to the official support pages where you can find detailed instructions on enabling MFA for each respective service. 
+Here are links to official documentation for enabling Multi-Factor Authentication (MFA) on popular platforms, these links direct you to the official support pages 
+where you can find detailed instructions on enabling MFA for each respective service. 
 
 1.	Google Account: https://support.google.com/accounts/answer/185839 
 2.	Microsoft Account: https://support.microsoft.com/en-us/account-billing/how-to-use-two-step-verification-with-your-microsoft-account-c7910146-672f-01e9-50a0-93b4585e7eb4 
