@@ -2,12 +2,12 @@
 Here are links to official documentation for enabling Multi-Factor Authentication (MFA) on popular platforms, these links direct you to the official support pages 
 where you can find detailed instructions on enabling MFA for each respective service. 
 
-1.	Google Account: https://support.google.com/accounts/answer/185839 
-2.	Microsoft Account: https://support.microsoft.com/en-us/account-billing/how-to-use-two-step-verification-with-your-microsoft-account-c7910146-672f-01e9-50a0-93b4585e7eb4 
-3.	Microsoft 365 Account: https://learn.microsoft.com/en-us/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication?view=o365-worldwide  
-4.	Facebook: https://www.facebook.com/help/148233965247823  
-5.	Twitter or X: https://help.x.com/en/managing-your-account/two-factor-authentication 
-6.	LinkedIn: https://www.linkedin.com/help/linkedin/answer/a1381088/turn-two-step-verification-on-and-off 
-7.	Instagram: https://help.instagram.com/566810106808145 
-8.	Yahoo: https://help.yahoo.com/kb/SLN5013.html? 
-9.	WordPress: https://wordpress.com/support/security/two-step-authentication 
+1. Google Account: https://support.google.com/accounts/answer/185839 
+2. Microsoft Account: https://support.microsoft.com/en-us/account-billing/how-to-use-two-step-verification-with-your-microsoft-account-c7910146-672f-01e9-50a0-93b4585e7eb4 
+3. Microsoft 365 Account: https://learn.microsoft.com/en-us/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication?view=o365-worldwide  
+4. Facebook: https://www.facebook.com/help/148233965247823  
+5. Twitter or X: https://help.x.com/en/managing-your-account/two-factor-authentication 
+6. LinkedIn: https://www.linkedin.com/help/linkedin/answer/a1381088/turn-two-step-verification-on-and-off 
+7. Instagram: https://help.instagram.com/566810106808145 
+8. Yahoo: https://help.yahoo.com/kb/SLN5013.html? 
+9. WordPress: https://wordpress.com/support/security/two-step-authentication 
